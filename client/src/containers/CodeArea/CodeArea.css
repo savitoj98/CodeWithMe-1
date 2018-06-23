@@ -1,0 +1,18 @@
+.CodeArea{
+    display:flex;
+    justify-content: flex-start;
+    height: 320px;
+    padding: 0;
+}
+
+.FileArea{
+    height: inherit;
+    width: 20%;
+    background-color: gray;
+    overflow: auto;
+}
+
+.CodeEditor{
+    height: inherit;
+    width: 100%;
+}

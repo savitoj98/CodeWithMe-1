@@ -1,0 +1,24 @@
+body{
+    font-family: "Montserrat",sans-serif;
+    /* background-color: #FF5864; */
+    font-size:15px;
+  }
+
+  h2{
+    padding: 7px;
+    font-size: 25px;
+
+  }
+nav {
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+    
+ }
+
+a{
+  color:antiquewhite;
+  font-size:20px;
+} 
+nav li { color: #000 } 
+ 
